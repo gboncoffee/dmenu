@@ -4,4 +4,3 @@ drw.o
 stest
 stest.o
 util.o
-colors.h
